@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/examen41/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/examen41/static/js/main.6125c99e.chunk.js",
+    "main.js.map": "/examen41/static/js/main.6125c99e.chunk.js.map",
+    "runtime-main.js": "/examen41/static/js/runtime-main.7fed82be.js",
+    "runtime-main.js.map": "/examen41/static/js/runtime-main.7fed82be.js.map",
+    "static/css/2.818011ed.chunk.css": "/examen41/static/css/2.818011ed.chunk.css",
+    "static/js/2.9e392952.chunk.js": "/examen41/static/js/2.9e392952.chunk.js",
+    "static/js/2.9e392952.chunk.js.map": "/examen41/static/js/2.9e392952.chunk.js.map",
+    "static/js/3.34948b91.chunk.js": "/examen41/static/js/3.34948b91.chunk.js",
+    "static/js/3.34948b91.chunk.js.map": "/examen41/static/js/3.34948b91.chunk.js.map",
+    "index.html": "/examen41/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/examen41/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/examen41/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9e392952.chunk.js.LICENSE.txt": "/examen41/static/js/2.9e392952.chunk.js.LICENSE.txt",
+    "static/media/galeria1.5bd26868.jpg": "/examen41/static/media/galeria1.5bd26868.jpg",
+    "static/media/galeria2.18d6f468.jpg": "/examen41/static/media/galeria2.18d6f468.jpg",
+    "static/media/galeria3.5b6d450e.jpg": "/examen41/static/media/galeria3.5b6d450e.jpg",
+    "static/media/header.f15e77a6.jpg": "/examen41/static/media/header.f15e77a6.jpg",
+    "static/media/procesador.ae067a32.gif": "/examen41/static/media/procesador.ae067a32.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fed82be.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.9e392952.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6125c99e.chunk.js"
+  ]
+}
